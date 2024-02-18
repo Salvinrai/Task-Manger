@@ -1,0 +1,13 @@
+First of go to backend and frontent section 
+and do npm i in each directry with two different terminal 
+Backend server is on port 8000
+Frontend is on 3000
+
+install te Xampp or my sql server connect to the main line in server.js in backend directory
+
+you are ready to use
+
+Note Install all dependencies 
+otherwise it will show error Module not found 
+
+ 

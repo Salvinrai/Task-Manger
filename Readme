@@ -1,0 +1,51 @@
+####Task Management Application Deployment
+
+Introduction
+This project instructions on how to deploy the Task Management Application, which consists of a frontend built with React and a backend implemented using Express.js with a SQL database for data storage.
+
+Prerequisites
+Before proceeding with the deployment, make sure you have the following prerequisites installed on your system:
+
+Node.js (with npm)
+Git
+SQL Database (e.g., MySQL, PostgreSQL)
+Installation and Setup
+
+Clone the Repository:
+
+Backend Setup:
+
+Navigate to the backend directory: cd Backend
+
+Install dependencies: npm install
+
+Start the backend server: npm start
+
+Frontend Setup:
+
+Navigate to the frontend directory: cd Frontend
+
+install dependencies: npm install
+
+Start the frontend server: npm start
+
+For the Database its uses SQL in Xampp 
+
+So first install Xampp 
+Activate the SQL server
+
+Create Database tasks
+or change directory of database in backend -> server.js
+
+Create A Schema for the output as followed
+
+Create a "tasks" table with the following columns:
+● id (auto-incrementing primary key)
+● title (string)
+● description (string)
+● completed (boolean)
+
+
+All things are write you are ready to use the Application
+
+
